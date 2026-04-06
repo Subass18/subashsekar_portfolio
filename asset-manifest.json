@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/subashsekar_portfolio/static/css/main.1646868c.css",
+    "main.js": "/subashsekar_portfolio/static/js/main.92ff5462.js",
+    "index.html": "/subashsekar_portfolio/index.html",
+    "main.1646868c.css.map": "/subashsekar_portfolio/static/css/main.1646868c.css.map",
+    "main.92ff5462.js.map": "/subashsekar_portfolio/static/js/main.92ff5462.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1646868c.css",
+    "static/js/main.92ff5462.js"
+  ]
+}
